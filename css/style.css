@@ -1,0 +1,40 @@
+.container {
+  padding: 12rem;
+}
+
+.input {
+  text-align: center;
+  margin-top: 30px;
+}
+.input input {
+  width: 29%;
+  padding: 10px;
+  margin-top: 20px;
+  border: 4px solid rgb(24, 0, 102);
+  outline: none;
+  margin-left: 7px;
+  border-radius: 5px;
+  
+}
+
+.button {
+  text-align: center;
+  margin-top: 20px;
+}
+.button button {
+  padding: 10px 20px;
+  margin-left: 9px;
+  border: 4px solid rgb(24, 0, 102);
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#cavab {
+  text-align: center;
+  margin-top: 30px;
+  color: white;
+  background-color: rgb(24, 0, 102);
+  width: 30%;
+  margin: 30px auto;
+}/*# sourceMappingURL=style.css.map */
